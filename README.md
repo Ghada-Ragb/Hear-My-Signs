@@ -1,4 +1,6 @@
 Application Hear My Signs
+
+
 "This project aims to assist deaf and mute individuals in effectively communicating with the surrounding community. Our application consists of four main components:
 
 1. **Sign language education:** The app provides comprehensive lessons to teach the basics of Arabic and English sign language, starting from the alphabet to forming sentences and expressing complex ideas. It features an interactive design that allows users to practice signs and receive feedback, improving their skills gradually.
