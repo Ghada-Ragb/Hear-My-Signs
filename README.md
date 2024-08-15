@@ -1,4 +1,4 @@
-![im16](https://github.com/user-attachments/assets/995cb8f4-0800-48b5-b6bb-489ccbc69b6f)![im15](https://github.com/user-attachments/assets/1d4afc97-28e4-4227-a0d6-c0cc3a0b7bee)![im17](https://github.com/user-attachments/assets/39460664-4c4f-4ff1-94a7-e5e8cb2f8939)![im11](https://github.com/user-attachments/assets/46e7652b-44a7-4a0c-9e83-83ec495e1f40)Application Hear My Signs
+Application Hear My Signs
 
 
 "This project aims to assist deaf and mute individuals in effectively communicating with the surrounding community. Our application consists of four main components:
@@ -12,6 +12,8 @@
 4. **Sign language-to-speech translation:** Users can sign in front of the device's camera, and the app will convert the signs into text and then into spoken language, enabling communication with people who do not know sign language.
 
 The project's significance lies in empowering deaf and mute individuals, facilitating communication, promoting inclusivity, and utilizing cutting-edge technologies in natural language processing and sign language recognition."
+
+
 ![im1](https://github.com/user-attachments/assets/62517fb4-d812-47df-87f1-2de9867c498c)
 ![im2](https://github.com/user-attachments/assets/c0d84dad-913f-4111-8da3-33d1b6c60bf2)
 ![im3](https://github.com/user-attachments/assets/8c4277ee-f1c3-4bcc-848d-12da0d567b74)
@@ -28,5 +30,6 @@ The project's significance lies in empowering deaf and mute individuals, facilit
 ![im15](https://github.com/user-attachments/assets/fed65ad4-f803-48f3-9aa2-ec7cdf0781a2)
 ![im16](https://github.com/user-attachments/assets/0c1bb8e1-abe8-4b64-b4fd-c6bda8e85aeb)
 ![im17](https://github.com/user-attachments/assets/0f7a7b00-589f-4735-933e-c391c55ceb59)
+
 
 
